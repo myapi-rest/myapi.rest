@@ -1,12 +1,23 @@
 # myapi.rest Community
 
-This repository is dedicated to:
-- Discussions
-- Questions & Answers
-- Feature Requests
-- Feedback
-- Bug Reports
+Welcome to the official community hub for **myapi.rest** — a growing suite of developer-friendly APIs including short URLs, QR codes, barcodes, image utilities, and more.
 
-There is no source code stored here.
+This repository contains:
 
-👉 Visit Discussions: https://github.com/myapi-rest/myapi.rest/discussions
+- 💬 Community Discussions  
+- ❓ Q&A  
+- 🐞 Bug Reports  
+- 💡 Feature Requests  
+- 📣 Announcements  
+
+There is **no source code** stored here — this space is dedicated to communication, support, and collaboration.
+
+👉 **Join the Discussions:**  
+https://github.com/myapi-rest/myapi.rest/discussions
+
+---
+
+### Useful Links
+
+🌐 **Website:** https://myapi.rest  
+🏢 **Powered by Marquis Information Services:** https://marquis.it.com
