@@ -1,2 +1,12 @@
-# myapi.rest
-A developer-friendly API suite (short URLs, QR codes, barcodes, image hosting and more) by myapi.rest
+# myapi.rest Community
+
+This repository is dedicated to:
+- Discussions
+- Questions & Answers
+- Feature Requests
+- Feedback
+- Bug Reports
+
+There is no source code stored here.
+
+👉 Visit Discussions: https://github.com/myapi-rest/myapi.rest/discussions
