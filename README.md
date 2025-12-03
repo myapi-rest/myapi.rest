@@ -28,6 +28,16 @@ https://github.com/myapi-rest/myapi.rest/discussions
 
 ---
 
+## Roadmap
+
+- [x] Short URL API docs & examples
+- [x] QR Code API docs & examples
+- [x] Barcode API docs & examples
+- [x] Image Upload API docs & examples
+- [ ] Chat Flow API docs & examples
+- [ ] Token / Coupon API docs & examples
+
+---
 ### Useful Links
 
 🌐 **Website:** https://myapi.rest  
