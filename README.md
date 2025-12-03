@@ -24,12 +24,6 @@ https://github.com/myapi-rest/myapi.rest/discussions
 
 ---
 
-## 📦 Unified Postman Collection
-See `/postman/myapi-suite.postman_collection.json`.
-
-## 📚 Documentation
-See `/docs` for shared concepts such as auth, errors, rate limits, and webhooks.
-
 ### Useful Links
 
 🌐 **Website:** https://myapi.rest  
