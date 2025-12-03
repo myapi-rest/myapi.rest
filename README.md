@@ -18,8 +18,8 @@ https://github.com/myapi-rest/myapi.rest/discussions
 ---
 
 ## 🚀 APIs Available
-- **Short URL API** → https://github.com/your-org/myapi-shorturl
-- **QR Code API** → https://github.com/your-org/myapi-qrcode
+- **Short URL API** → https://github.com/myapi-rest/myapi-shorturl
+- **QR Code API** → https://github.com/myapi-rest/myapi-qrcode
 - More coming soon…
 
 ---
