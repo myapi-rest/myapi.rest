@@ -22,16 +22,16 @@ There is **no source code** stored here — this hub is dedicated to communicati
 
 ## Available APIs
 
-- **Short URL API**  
+- **[Short URL API](https://github.com/myapi-rest/myapi-shorturl)**  
   Create fast, reliable short links with optional expiry timestamps.
 
-- **QR Code API**  
+- **[QR Code API](https://github.com/myapi-rest/myapi-qrcode)**  
   Generate customizable QR codes (PNG/JPG/SVG) with advanced styling options.
 
-- **Barcode API**  
+- **[Barcode API](https://github.com/myapi-rest/myapi-barcode)**  
   Generate Code128, EAN, UPC, and other barcode formats.
 
-- **Image Upload API**  
+- **[Image Upload API](https://github.com/myapi-rest/myapi-imageupload)**  
   Upload Base64 images and retrieve hosted URLs instantly.
 
 More APIs are actively being developed and released.
@@ -52,7 +52,7 @@ More APIs are actively being developed and released.
 ## Useful Links
 
 🌐 Website: https://myapi.rest  
-📘 Documentation & Examples: See individual API repos  
+📘 Documentation & Examples: https://github.com/myapi-rest  
 💬 Discussions: https://github.com/myapi-rest/myapi.rest/discussions  
 🏢 Powered by Marquis Information Services: https://marquis.it.com  
 
