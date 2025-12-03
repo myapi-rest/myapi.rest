@@ -1,30 +1,40 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Website](https://img.shields.io/badge/site-myapi.rest-0EA5E9)](https://myapi.rest)
 [![Discussions](https://img.shields.io/badge/discussions-join-2563EB)](https://github.com/myapi-rest/myapi.rest/discussions)
+[![API Suite](https://img.shields.io/badge/myapi.rest-API%20Suite-0F766E)](https://github.com/myapi-rest)
+[![Community](https://img.shields.io/badge/community-active-10B981)](https://github.com/myapi-rest/myapi.rest/discussions)
 
-# myapi.rest Community
+# myapi.rest — Developer Hub
 
-Welcome to the official community hub for **myapi.rest** — a growing suite of developer-friendly APIs including short URLs, QR codes, barcodes, image utilities, and more.
+Welcome to the official community hub for **myapi.rest** — a growing suite of fast, modern REST APIs built for developers.
 
 This repository contains:
 
 - 💬 Community Discussions  
 - ❓ Q&A  
-- 🐞 Bug Reports  
+- 🐞 Issue Reporting  
 - 💡 Feature Requests  
 - 📣 Announcements  
+- 🔗 Links to all APIs and documentation  
 
-There is **no source code** stored here — this space is dedicated to communication, support, and collaboration.
-
-👉 **Join the Discussions:**  
-https://github.com/myapi-rest/myapi.rest/discussions
+There is **no source code** stored here — this hub is dedicated to communication, support, and collaboration.
 
 ---
 
-## 🚀 APIs Available
-- **Short URL API** → https://github.com/myapi-rest/myapi-shorturl
-- **QR Code API** → https://github.com/myapi-rest/myapi-qrcode
-- More coming soon…
+## Available APIs
+
+- **Short URL API**  
+  Create fast, reliable short links with optional expiry timestamps.
+
+- **QR Code API**  
+  Generate customizable QR codes (PNG/JPG/SVG) with advanced styling options.
+
+- **Barcode API**  
+  Generate Code128, EAN, UPC, and other barcode formats.
+
+- **Image Upload API**  
+  Upload Base64 images and retrieve hosted URLs instantly.
+
+More APIs are actively being developed and released.
 
 ---
 
@@ -38,7 +48,12 @@ https://github.com/myapi-rest/myapi.rest/discussions
 - [ ] Token / Coupon API docs & examples
 
 ---
-### Useful Links
 
-🌐 **Website:** https://myapi.rest  
-🏢 **Powered by Marquis Information Services:** https://marquis.it.com
+## Useful Links
+
+🌐 Website: https://myapi.rest  
+📘 Documentation & Examples: See individual API repos  
+💬 Discussions: https://github.com/myapi-rest/myapi.rest/discussions  
+🏢 Powered by Marquis Information Services: https://marquis.it.com  
+
+We welcome feedback, ideas, and contributions from the developer community!
