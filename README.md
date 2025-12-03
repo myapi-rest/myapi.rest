@@ -46,6 +46,8 @@ More APIs are actively being developed and released.
 - [x] Image Upload API docs & examples
 - [ ] Chat Flow API docs & examples
 - [ ] Token / Coupon API docs & examples
+- [ ] Visitor Analytics API docs & examples
+
 
 ---
 
